@@ -8,3 +8,4 @@
 6. [VMware 虚拟机 · 选择练习环境与卸载旧版 Workstation](notes/06-vmware-workstation.md)
 7. [在 Windows 安装 VMware Workstation Pro](notes/07-install-vmware-workstation.md)
 8. [升级 Workstation 后继续使用原有的 Ubuntu 虚拟机](notes/08-resume-existing-ubuntu-vm.md)
+9. [在 VMware 虚拟机中安装 Ubuntu Desktop](notes/09-install-ubuntu-desktop.md)
