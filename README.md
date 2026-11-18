@@ -5,3 +5,4 @@
 3. [认识 Linux · Unix、开源与发行版](notes/03-linux-and-distributions.md)
 4. [开源一定免费吗？以红帽企业 Linux 为例](notes/04-open-source-and-pricing.md)
 5. [Linux 的用途与发行版家族](notes/05-linux-uses-and-distributions.md)
+6. [VMware 虚拟机 · 选择练习环境与卸载旧版 Workstation](notes/06-vmware-workstation.md)
