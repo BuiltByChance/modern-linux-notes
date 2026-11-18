@@ -9,3 +9,4 @@
 7. [在 Windows 安装 VMware Workstation Pro](notes/07-install-vmware-workstation.md)
 8. [升级 Workstation 后继续使用原有的 Ubuntu 虚拟机](notes/08-resume-existing-ubuntu-vm.md)
 9. [在 VMware 虚拟机中安装 Ubuntu Desktop](notes/09-install-ubuntu-desktop.md)
+10. [让 Ubuntu 虚拟桌面适应全屏 · VMware Tools 与软件源](notes/10-vmware-tools.md)
